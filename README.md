@@ -33,7 +33,7 @@ qdrant.recreate_collection(
 ## 3. Deploy Large Models
 Download the Qwen large model and the GLM large model
 ```bash
-git clone hf@git.co:THUDM/chatglm3-6b
+git clone hf@git.co:THUDM/chatglm2-6b
 git clone hf@git.co:Qwen/Qwen-14B-Chat
 ```
 Deploy large models based on FastChat
