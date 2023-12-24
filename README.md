@@ -30,7 +30,7 @@ qdrant.recreate_collection(
 )
 ```
 
-## 3. Deploy Large Models
+## 3. Deploy local LLMs
 Download the Qwen large model and the GLM large model
 ```bash
 git clone hf@git.co:THUDM/chatglm2-6b
